@@ -42,3 +42,7 @@ Database Sync
 -------------
 - `POST /api/sync` fetches likes from X and upserts them into SQLite.
 - `GET /api/db/likes?limit=200&offset=0` returns stored likes (paginated).
+
+TODO
+----
+- Include media expansions (images/videos) in likes export.

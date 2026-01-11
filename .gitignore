@@ -3,5 +3,7 @@ node_modules/
 server/.env
 client/.env
 server/xlike.db
+server/xlike.db-shm
+server/xlike.db-wal
 *.sqlite
 *.sqlite3
